@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $ATH | tr ":" "\n" | wc -l
